@@ -3,7 +3,7 @@
 ---
 ### Paper
 
-__Jindian Liu, Zhuo Li,Huipeng Du, Haodong Zhou, Leyang Li, Yi An, Yu Zhang, Kaihua Liu, Qiang Li__ 
+__Jindian Liu, Zhuo Li, Huipeng Du, Haodong Zhou, Leyang Li, Yi An, Yu Zhang, Kaihua Liu, Qiang Li__ 
 An effective and accurate flow size measurement using funnel-shaped sketch
 __Computer Networks 247 (2024)__ 
 
