@@ -5,7 +5,7 @@
 
 __Jindian Liu, Zhuo Li, Huipeng Du, Haodong Zhou, Leyang Li, Yi An, Yu Zhang, Kaihua Liu, Qiang Li.__ 
 An effective and accurate flow size measurement using funnel-shaped sketch.
-_Computer Networks 247 (2024)_
+_Computer Networks 247 (2024) 110467_
 
 ---
 ### Files
