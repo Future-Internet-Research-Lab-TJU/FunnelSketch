@@ -14,11 +14,11 @@ __Computer Networks 247 (2024)__
 - Bottom.h：the bottom part of funnel sketch
 - Funnelsketch.h：the implementation of funnelsketch
 - param.h: the parameters of funnel sketch
-- BOBHash32.h: the hash function
-- frequency.cpp：test for flow size estiamtion
-- heavy_changer.cpp: test for heavy changer detection
-- heavy_hitter.cpp: test for heavy hitter detection
-- throughput.cpp: test for throughput
+- BOBHash32.h: the hash functions
+- frequency.cpp：flow size estiamtion
+- heavy_changer.cpp: heavy changer detection
+- heavy_hitter.cpp: heavy hitter detection
+- throughput.cpp: throughput
 ---
 
 ### Compile and Run the examples
