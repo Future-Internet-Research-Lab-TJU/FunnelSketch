@@ -43,7 +43,7 @@ void fileReader(const char* filename)
 void test_funnel(int mem_16bit, int mem_32bit, int mem_tot)
 {
 	int w_u = MEMORY_PROP * memTot / 0.5 / 3;
-    int w = ((1) * memTot - 0.5 * 1024) / (8 + 2 + 0.5* 90 + COUNTER_PER_BUCKET_8BIT + COUNTER_PER_BUCKET_16BIT * 2) / 3;
+    int w = ((1 - MEMORY_PROP) * memTot - 0.5 * 1024) / (8 + 2 + COUNTER_PER_BUCKET_8BIT + COUNTER_PER_BUCKET_16BIT * 2) / 3;
 	
 	FunnelSketch fs(100, w, w_u);
 
